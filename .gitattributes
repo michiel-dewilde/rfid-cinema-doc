@@ -1,0 +1,10 @@
+*              -text
+*.lxf filter=lfs diff=lfs merge=lfs -text
+*.md           text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.txt          text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.xml          text
+.gitattributes text
+.gitignore     text
+LICENSE        text
